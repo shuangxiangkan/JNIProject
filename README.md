@@ -27,7 +27,11 @@
         └── HelloWorld.java
 ```
 
-#### 3. 命令: javac HelloWorld.java -h . （注意：最后有个点 "."）
+#### 3. 命令 （注意：最后有个点 "."）
+
+```
+javac HelloWorld.java -h .
+```
 
 ```
 .
